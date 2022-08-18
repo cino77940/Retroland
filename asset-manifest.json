@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/cino77940.github.io/Retroland/static/css/main.718d9139.css",
-    "main.js": "/cino77940.github.io/Retroland/static/js/main.00a6eeb8.js",
-    "static/media/Consoles.png": "/cino77940.github.io/Retroland/static/media/Consoles.b633b7bf2207aa39c932.png",
-    "static/media/Roms.jpg": "/cino77940.github.io/Retroland/static/media/Roms.f8d3e9fdf9925a3ee884.jpg",
-    "static/media/Nintendo.jpg": "/cino77940.github.io/Retroland/static/media/Nintendo.db7de0acfa9c6062d21f.jpg",
-    "static/media/logo.png": "/cino77940.github.io/Retroland/static/media/logo.5f3d8f35ed5e4643aa6c.png",
-    "index.html": "/cino77940.github.io/Retroland/index.html",
-    "main.718d9139.css.map": "/cino77940.github.io/Retroland/static/css/main.718d9139.css.map",
-    "main.00a6eeb8.js.map": "/cino77940.github.io/Retroland/static/js/main.00a6eeb8.js.map"
+    "main.css": "/Retroland/static/css/main.718d9139.css",
+    "main.js": "/Retroland/static/js/main.b5f7f0f3.js",
+    "static/media/Consoles.png": "/Retroland/static/media/Consoles.b633b7bf2207aa39c932.png",
+    "static/media/Roms.jpg": "/Retroland/static/media/Roms.f8d3e9fdf9925a3ee884.jpg",
+    "static/media/Nintendo.jpg": "/Retroland/static/media/Nintendo.db7de0acfa9c6062d21f.jpg",
+    "static/media/logo.png": "/Retroland/static/media/logo.5f3d8f35ed5e4643aa6c.png",
+    "index.html": "/Retroland/index.html",
+    "main.718d9139.css.map": "/Retroland/static/css/main.718d9139.css.map",
+    "main.b5f7f0f3.js.map": "/Retroland/static/js/main.b5f7f0f3.js.map"
   },
   "entrypoints": [
     "static/css/main.718d9139.css",
-    "static/js/main.00a6eeb8.js"
+    "static/js/main.b5f7f0f3.js"
   ]
 }
