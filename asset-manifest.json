@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cino77940.github.io/Retroland-app/static/css/main.718d9139.css",
+    "main.js": "/cino77940.github.io/Retroland-app/static/js/main.50cc52b8.js",
+    "static/media/Consoles.png": "/cino77940.github.io/Retroland-app/static/media/Consoles.b633b7bf2207aa39c932.png",
+    "static/media/Roms.jpg": "/cino77940.github.io/Retroland-app/static/media/Roms.f8d3e9fdf9925a3ee884.jpg",
+    "static/media/Nintendo.jpg": "/cino77940.github.io/Retroland-app/static/media/Nintendo.db7de0acfa9c6062d21f.jpg",
+    "static/media/logo.png": "/cino77940.github.io/Retroland-app/static/media/logo.5f3d8f35ed5e4643aa6c.png",
+    "index.html": "/cino77940.github.io/Retroland-app/index.html",
+    "main.718d9139.css.map": "/cino77940.github.io/Retroland-app/static/css/main.718d9139.css.map",
+    "main.50cc52b8.js.map": "/cino77940.github.io/Retroland-app/static/js/main.50cc52b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.718d9139.css",
+    "static/js/main.50cc52b8.js"
+  ]
+}
